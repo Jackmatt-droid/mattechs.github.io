@@ -13,7 +13,7 @@ function App() {
             <br></br>Lets break in to it Together
           </p>
         </div>
-    <p>Welcome to it Buddy></p>
+    <p>Welcome to it Buddy</p>
       </header>
     </div>
     </>
