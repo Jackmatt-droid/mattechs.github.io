@@ -1,3 +1,6 @@
 body {
   background-color: rgb(12,79,gre0);
 }
+* {
+  box-sizing: border-box;
+}

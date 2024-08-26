@@ -1,7 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import 'bootstrap/dist/css/bootstrap.min.css';
-
+import './index.css'
 function App() {
   return (
     <>
@@ -9,6 +9,9 @@ function App() {
       <header>
         <div>
           <h1>Hi Everyone i am Jackmatt</h1>
+          <p>The Coding Journey is really sweet and enjoyable
+            <br></br>Lets break in to it Together
+          </p>
         </div>
       </header>
     </div>
