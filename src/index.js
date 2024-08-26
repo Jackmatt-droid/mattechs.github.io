@@ -13,8 +13,12 @@ function App() {
             <br></br>Lets break in to it Together
           </p>
         </div>
-    <p>Welcome to it Buddy</p>
+         <p>Welcome to it Buddy</p>
       </header>
+      <form>
+        <label htmlFor='name'>Enter Your name:</label><br/>
+        <input type='text' name='name' id='name' placeholder='Your name'></input>
+      </form>
     </div>
     </>
   )
